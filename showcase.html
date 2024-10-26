@@ -17,14 +17,9 @@ navbar_title: Showcase
     {% assign width_xs = item.width | times: 3 | at_most: 12 %}
     {% if width_xs > 6 %}{% assign width_xs = 12 %}{% endif %}
 
-    <div class="p-2 grid-item col-md-{{ item.width | at_most: 12 }} col-sm-{{ width_sm }} col-{{ width_xs }}">
+  <div class="p-2 grid-item col-md-{{ item.width | at_most: 12 }} col-sm-{{ width_sm }} col-{{ width_xs }}">
         <div class="{% if item.class != null %}{{ item.class }}{% else %}card border-0 shadow-sm bg-white{% endif %}">
-            <a href="{{ item.link }}" class="project-link"> <!-- Link to the project's subpage -->
-                <h2>{{ item.title }}</h2>
-                <p>{{ item.description }}</p>
-            </a>
-            <!-- Optionally, include an image or other content -->
-            <img src="{{ item.image }}" alt="{{ item.title }}" />
+            {{ item.content }}
         </div>
     </div>
     {% endfor %}
