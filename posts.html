@@ -3,6 +3,7 @@ layout: default
 title : Posts
 navbar_title: Posts
 ---
+<p>Posts loaded: {{ site.posts | size }}</p>
 
 {% if site.posts and site.posts.size > 0 %}
     {% assign count_posts = site.posts | size %}
