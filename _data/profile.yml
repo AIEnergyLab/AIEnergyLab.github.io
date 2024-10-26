@@ -22,12 +22,18 @@ twitter: your_twitter_id  # Do not include the '@' symbol
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+    The energy system is undergoing a significant transition towards low-carbon sustainability, characterized by the widespread adoption of renewable energy sources, 
+    such as wind and solar power, to replace conventional coal-fired thermal generation. However, the inherent uncertainty and intermittency of renewable generation pose major challenges in achieving a smooth transition. 
+    In traditional energy systems, coal-fired plants can be adjusted flexibly to balance demand. In contrast, renewable energy output is heavily influenced by weather conditions, 
+    leading to fluctuations that often misalign with energy demands.
   </p>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+    To address this, our mission is to explore smart coordination between supply and demand, leveraging advanced tools for the intelligent operation of energy systems. 
+    Our generation has witnessed rapid advancements in artificial intelligence (AI) technologies, particularly the strong representational capabilities of neural networks, 
+    which enable data mining, time-series prediction, decision-making, and the resolution of complex optimization problems.
+  </p>
+  <p>
+  Our team is dedicated to investigating the application of AI technologies in energy system modeling, optimization, and decision-making, tackling the challenges associated with the transition to a low-carbon energy future.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
