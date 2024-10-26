@@ -3,6 +3,11 @@ layout: default
 title : Projects
 navbar_title: Projects
 ---
+{% if site.projects %}
+  <p>Projects loaded: {{ site.projects | size }}</p>
+{% else %}
+  <p>No projects found.</p>
+{% endif %}
 
 {% assign cards_by_group = site.projects | sort: "date" | reverse | where: "show", true | group_by_exp: "item", "item.group" %}
 
