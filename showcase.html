@@ -19,7 +19,12 @@ navbar_title: Showcase
 
     <div class="p-2 grid-item col-md-{{ item.width | at_most: 12 }} col-sm-{{ width_sm }} col-{{ width_xs }}">
         <div class="{% if item.class != null %}{{ item.class }}{% else %}card border-0 shadow-sm bg-white{% endif %}">
-            {{ item.content }}
+            <a href="{{ item.link }}" class="project-link"> <!-- Link to the project's subpage -->
+                <h2>{{ item.title }}</h2>
+                <p>{{ item.description }}</p>
+            </a>
+            <!-- Optionally, include an image or other content -->
+            <img src="{{ item.image }}" alt="{{ item.title }}" />
         </div>
     </div>
     {% endfor %}
