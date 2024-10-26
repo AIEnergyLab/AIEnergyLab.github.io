@@ -2,7 +2,7 @@
 show: true
 width: 3
 date: 2020-01-12 00:01:00 +0800
-group: Cats
+group: Projects
 ---
 <div>
 <a href="/projects" target="_blank">
