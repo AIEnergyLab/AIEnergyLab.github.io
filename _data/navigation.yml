@@ -1,7 +1,13 @@
 pages:
 - name: Home
   url: /
+- name: Team
+  url: /
+- name: Projects
+  url: / 
 - name: Publications
   url: /publications
+- name: Posts
+  url: /
 - name: Showcase
   url: /showcase
