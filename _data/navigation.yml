@@ -4,7 +4,7 @@ pages:
 - name: Team
   url: /
 - name: Projects
-  url: / 
+  url: /projects 
 - name: Publications
   url: /publications
 - name: Posts
