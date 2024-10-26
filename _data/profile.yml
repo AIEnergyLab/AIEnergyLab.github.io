@@ -3,7 +3,7 @@ secondary_name: ""
 navbar_name: "AI For Energy Lab"
 
 positions:
-- logo: /assets/images/AI-for-Energy.png  # Logo is optional
+- logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
   name: Research Purpose
 
 
