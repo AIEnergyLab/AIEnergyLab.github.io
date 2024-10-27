@@ -1,7 +1,6 @@
-
 # Posts
 
-## Adacemic writing
+## Academic writing
 - [Microsoft Research: How to Write a Great Research Paper](https://www.youtube.com/watch?v=WP-FkUaOcOM)
 - [Microsoft Research: How to Write a Great Research Paper (PhD)](https://www.youtube.com/watch?v=1AYxMbYZQ1Y&t=1s)
 - [Wordvice Webinar: How to Write a Strong Introduction](https://www.youtube.com/watch?v=XBJvwb7IPq4)
@@ -43,6 +42,6 @@
 - [How to read and understand a scientific article](https://violentmetaphors.com/2013/08/25/how-to-read-and-understand-a-scientific-paper-2/) (very nice for the newbies)
 - [An interesting Blog](https://www.danielherber.com/blog.php)
 - [An interesting Web](https://sites.google.com/site/amirbeck314/links)
-- [Tutotial switching from Matlab to Python](https://realpython.com/matlab-vs-python/)
+- [Tutorial switching from Matlab to Python](https://realpython.com/matlab-vs-python/)
 - [Nonlinear Programming with Matlab (APMonitor/fmincon/Python GEKKO)](https://apmonitor.com/che263/index.php/Main/MatlabOptimization)
 - [Matlab coding: variable naming rules](https://www.ee.columbia.edu/~marios/matlab/MatlabStyle1p5.pdf)
