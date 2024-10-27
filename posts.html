@@ -3,7 +3,12 @@ layout: default
 title : Posts
 navbar_title: Posts
 ---
-<p>Posts loaded: {{ site.news | size }}</p>
 
+<!-- Load the markdown content for posts -->
+<div>
+  {% include posts_content.md %}
+</div>
+
+<!-- Optionally include the news card widget -->
 {% include widgets/news_card.html %}
 
