@@ -5,9 +5,5 @@ navbar_title: Posts
 ---
 <p>Posts loaded: {{ site.news | size }}</p>
 
-{% if site.news and site.news.size > 0 %}
-    {% assign count_news = site.news | size %}
-    {% if count_news > 0 %}
-        {% include widgets/news_card.html %}
-    {% endif %}
-{% endif %}
+{% include widgets/news_card.html %}
+
