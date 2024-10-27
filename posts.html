@@ -11,7 +11,7 @@ navbar_title: Posts
     </h6>
     <div class="p-3">
       {% capture post_content %}
-        {% include post_content.md %}
+        {% include_relative _posts/post_content.md %}
       {% endcapture %}
       {{ post_content | markdownify }}
     </div>
