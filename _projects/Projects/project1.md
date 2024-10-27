@@ -12,6 +12,6 @@ group: Projects
     <p class="card-text">
       This image shows the star history of the GitHub repository of this website.
     </p>
-    <p class="card-text"><small><a href="https://github.com/luost26/academic-homepage" target="_blank">Give a star!</a></small></p>
+    <p class="card-text"><small><a href="https://github.com/luost26/academic-homepage" target="_blank">Click to know more!</a></small></p>
   </div>
 </div>
