@@ -8,6 +8,13 @@ navbar_title: Posts
   {{ "## Test Header\nThis is a test paragraph." | markdownify }}
 </div>
 
+<div>
+  {% capture post_content %}
+    {% include post_content.md %}
+  {% endcapture %}
+  {{ post_content | markdownify }}
+</div>
+
 
 
 
