@@ -1,4 +1,4 @@
-<!-- Others-->
+<!-- Others -->
 
 - [EasyRL: A good Chinese book to learn RL for beginners](https://datawhalechina.github.io/easy-rl/#/)
 - [Graph Neural Network (GNN) and Graph Convolutional Network (GCN)](https://www.bilibili.com/video/BV1Em4y1A7Vm/?spm_id_from=333.999.0.0)
