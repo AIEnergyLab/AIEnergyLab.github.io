@@ -5,12 +5,13 @@ navbar_title: Posts
 ---
 
 
-<div>
-  {{ "# Posts" | markdownify }}
-  {% capture post_content %}
-    {% include post_content.md %}
-  {% endcapture %}
-  {{ post_content | markdownify }}
+<div class="my-3 bg-white shadow-sm rounded-sm">
+    <h6 class="p-3 mb-0 border-bottom border-gray">
+        <i class="fas fa-rss"></i> Academic Writing
+    </h6>
+    <div class="p-3">
+        {% include post_content.md %}
+    </div>
 </div>
 
 
