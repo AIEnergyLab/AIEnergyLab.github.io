@@ -10,7 +10,10 @@ navbar_title: Posts
         <i class="fas fa-rss"></i> Academic Writing
     </h6>
     <div class="p-3">
+      {% capture post_content %}
         {% include post_content.md %}
+      {% endcapture %}
+      {{ post_content | markdownify }}
     </div>
 </div>
 
