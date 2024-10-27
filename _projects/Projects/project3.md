@@ -6,7 +6,7 @@ group: Projects
 ---
 
 <div>
-  <img data-src="assets/images/etc/cat3.jpg" class="lazy w-100 rounded-top" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
+  <img data-src="assets/images/etc/tim_the_beaver.png" class="lazy w-100 rounded-top" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
   <div class="card-body">
     <h6 class="card-title">GitHub Star History</h6>
     <p class="card-text">
