@@ -1,6 +1,7 @@
 <!-- # Posts-->
 
 <!-- ## Adacemic writing -->
+
 - [Microsoft Research: How to Write a Great Research Paper](https://www.youtube.com/watch?v=WP-FkUaOcOM)
 - [Microsoft Research: How to Write a Great Research Paper (PhD)](https://www.youtube.com/watch?v=1AYxMbYZQ1Y&t=1s)
 - [Wordvice Webinar: How to Write a Strong Introduction](https://www.youtube.com/watch?v=XBJvwb7IPq4)
