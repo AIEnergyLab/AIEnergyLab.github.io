@@ -1,6 +1,3 @@
-<!-- # Posts -->
-
-<!--  Research Communities -->
 
 - [Amir Beck: Convex and Nonconvex Optimization](https://sites.google.com/site/amirbeck314/home)
 - [Pierre Pinson: Energy systems](http://pierrepinson.com/index.php/sample-page-2-2/)
