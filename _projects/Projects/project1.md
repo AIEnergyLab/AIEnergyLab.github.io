@@ -12,6 +12,6 @@ group: Projects
     <p class="card-text">
       This image shows the star history of the GitHub repository of this website.
     </p>
-    <p class="card-text"><small><a href="subpages/project_page_1.html" target="_blank">Click to know more!</a></small></p>
+    <p class="card-text"><small><a href="/publications" target="_blank">Click to know more!</a></small></p>
   </div>
 </div>
