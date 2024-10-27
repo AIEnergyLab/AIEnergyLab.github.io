@@ -1,4 +1,3 @@
-# Posts
 
 ## Academic writing
 - [Microsoft Research: How to Write a Great Research Paper](https://www.youtube.com/watch?v=WP-FkUaOcOM)
