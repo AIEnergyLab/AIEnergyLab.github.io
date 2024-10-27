@@ -4,18 +4,78 @@ title : Posts
 navbar_title: Posts
 ---
 
-
+<!-- Academic writing-->
 <div class="my-3 bg-white shadow-sm rounded-sm">
     <h6 class="p-3 mb-0 border-bottom border-gray">
         <i class="fas fa-rss"></i> Academic Writing
     </h6>
     <div class="p-3">
-      {% capture post_content %}
-        {% include_relative _posts/post_content.md %}
+      {% capture write_content %}
+        {% include_relative _posts/write_content.md %}
       {% endcapture %}
-      {{ post_content | markdownify }}
+      {{ write_content | markdownify }}
     </div>
 </div>
+
+
+<!-- Communication-->
+<div class="my-3 bg-white shadow-sm rounded-sm">
+    <h6 class="p-3 mb-0 border-bottom border-gray">
+        <i class="fas fa-rss"></i> Communication
+    </h6>
+    <div class="p-3">
+      {% capture communicate_content %}
+        {% include_relative _posts/communicate_content.md %}
+      {% endcapture %}
+      {{ communicate_content | markdownify }}
+    </div>
+</div>
+
+
+<!-- Talks-->
+<div class="my-3 bg-white shadow-sm rounded-sm">
+    <h6 class="p-3 mb-0 border-bottom border-gray">
+        <i class="fas fa-rss"></i> Talks
+    </h6>
+    <div class="p-3">
+      {% capture talk_content %}
+        {% include_relative _posts/talk_content.md %}
+      {% endcapture %}
+      {{ talk_content | markdownify }}
+    </div>
+</div>
+
+
+
+<!-- Research communities-->
+<div class="my-3 bg-white shadow-sm rounded-sm">
+    <h6 class="p-3 mb-0 border-bottom border-gray">
+        <i class="fas fa-rss"></i> Research Communities
+    </h6>
+    <div class="p-3">
+      {% capture community_content %}
+        {% include_relative _posts/community_content.md %}
+      {% endcapture %}
+      {{ community_content | markdownify }}
+    </div>
+</div>
+
+
+<!-- Others-->
+<div class="my-3 bg-white shadow-sm rounded-sm">
+    <h6 class="p-3 mb-0 border-bottom border-gray">
+        <i class="fas fa-rss"></i> Others
+    </h6>
+    <div class="p-3">
+      {% capture other_content %}
+        {% include_relative _posts/other_content.md %}
+      {% endcapture %}
+      {{ other_content | markdownify }}
+    </div>
+</div>
+
+
+
 
 
 
